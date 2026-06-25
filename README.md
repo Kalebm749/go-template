@@ -1,2 +1,3 @@
 # go-template
-A simmple go project template
+
+A simple go project template
